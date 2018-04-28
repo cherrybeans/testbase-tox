@@ -1,2 +1,2 @@
-# timeallot-testbase
-Base for testing in drone CI.
+# tox-testbase
+Base for running tests in drone CI. Already has installed tox.
